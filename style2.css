@@ -34,7 +34,6 @@ h3{font-size:16px;color:#127677;font-weight:bold}
 h4{font-size:14px;color:#333;font-weight:bold;line-height:1.42857143}
 ul.doted{list-style-type:none;padding-left:0}
 ul.doted li{margin-bottom:10px}
-ul.doted li:before{content:"";line-height:1em;width:.5em;height:.5em;background-color:#127677;float:left;margin:.50em .50em 0 0;border-radius:50%}
 .why{background-image:url("../images/why/bg-why.png");background-position:top right;background-repeat:no-repeat;margin-bottom:-90px}
 .list-reasons{position:relative;padding-top:57%}
 .list-reasons .reason{position:absolute;text-align:center;height:0}
